@@ -1,0 +1,29 @@
+.inner{    
+    width:300px;
+    margin-left:49px;
+    margin-top: 5px;
+}
+
+.outer{
+    margin:63px;
+}
+
+.description{
+    padding: 40px;
+    margin: 20px
+  }
+.description-org{
+    padding-top: 10px;
+    padding-left: 32px;
+    margin: 20px
+  }
+  .location{
+    padding-left:100px;
+  }
+  
+.thumbNail{
+    width:600px;
+    height:400px;
+    padding: 40px;
+    padding-bottom: 5px;
+}
